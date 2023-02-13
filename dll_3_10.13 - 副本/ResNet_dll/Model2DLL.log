@@ -1,0 +1,49 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  Net.cpp
+D:\c_packages\TensorRT\TensorRT\include\NvInfer.h(3558,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\logging.h(75,33): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\Net.cpp(46,36): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\Net.cpp(47,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\Net.cpp(117,10): warning C4244: “初始化”: 从“int64_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\Net.cpp(164,97): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\Net.cpp(171,97): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\Net.cpp(179,107): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\Net.cpp(210,90): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\Net.cpp(251,90): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\Net.cpp(763,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\Net.cpp(766,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\Net.cpp(768,12): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\Net.cpp(772,7): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\logging.h(75,33): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c_packages\TensorRT\TensorRT\include\NvInfer.h(3558,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\cuda_runtime_api.h(9349,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(123,47): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(124,61): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(125,65): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(175,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(176,47): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(177,51): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(241,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(264,18): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(560,3): warning C4244: “参数”: 从“double”转换到“size_t”，可能丢失数据
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(463,11): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(479,4): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(678,100): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(740,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(741,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(745,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(746,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(748,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(786,11): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(802,13): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(817,12): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(869,12): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(876,12): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(688,11): warning C4101: “defect_area”: 未引用的局部变量
+  正在生成代码...
+C:\Users\Administrator\Desktop\dll_1\ResNet_dll\main.cpp(883): warning C4715: “Result”: 不是所有的控件路径都返回值
+    正在创建库 ..\cpp_demo11\cpp_demo\engine2dll.lib 和对象 ..\cpp_demo11\cpp_demo\engine2dll.exp
+  Model2DLL.vcxproj -> C:\Users\Administrator\Desktop\dll_1\cpp_demo11\cpp_demo\engine2dll.dll
