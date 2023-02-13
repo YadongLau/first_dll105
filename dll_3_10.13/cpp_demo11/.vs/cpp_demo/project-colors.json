@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a639f4d-3d49-4740-b0ed-be573fc05514": {
+      "ProjectGuid": "7a639f4d-3d49-4740-b0ed-be573fc05514",
+      "DisplayName": "Model2DLL",
+      "ColorIndex": 0
+    },
+    "f1e35820-20c8-455f-a377-7b084eeacfa5": {
+      "ProjectGuid": "f1e35820-20c8-455f-a377-7b084eeacfa5",
+      "DisplayName": "cpp_demo",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
